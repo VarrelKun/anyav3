@@ -14,7 +14,7 @@
   <a href="https://www.youtube.com/channel/UClfUAjgtQ19vGnUbkQxTuAg"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/6281364444859">Klik disini untuk whatsapp Gempy </a>
+  <a href="https://wa.me/6281364444859">Klik disini untuk whatsapp Koncit </a>
 </h4>
 </p>
 

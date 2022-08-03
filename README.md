@@ -1,27 +1,27 @@
 <div align="center">
-<img src="https://i.postimg.cc/6qHxw8C6/20220116-012320.png" alt="Hyzer Md-V3" width="300" />
+<img src="https://telegra.ph/file/c03ec512d671c3e26727b.jpg" alt="Anya Md-V3" width="300" />
 
 </p>
-<h1 align="center">GEMPY TON</h1>
+<h1 align="center">KONCIT OFC</h1>
 
 >
 >
 >
 </div>
 <p align="center">
-  <a href="https://github.com/GempyTon"><img title="GitHub" src="https://img.shields.io/badge/Github-ramlaidi.svg?style=for-the-badge&logo=github" /></a>
-  <a href="httts://instagram.com/gmpyyy"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://github.com/koncit"><img title="GitHub" src="https://img.shields.io/badge/Github-ramlaidi.svg?style=for-the-badge&logo=github" /></a>
+  <a href="httts://instagram.com/k0nc1t.stotr"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.youtube.com/channel/UClfUAjgtQ19vGnUbkQxTuAg"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/𝟼𝟸𝟾𝟽𝟾𝟿𝟿𝟹𝟶𝟽𝟹𝟻𝟶">Klik disini untuk whatsapp Gempy </a>
+  <a href="https://wa.me/6281364444859">Klik disini untuk whatsapp Gempy </a>
 </h4>
 </p>
 
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lita=1&outputonly=1#.replit) 
-> Untuk Tutorialnya Liat Dan Subscribe [ Here ](https://youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw) 
+> Untuk Tutorialnya Liat Dan Subscribe [ Here ](https://www.youtube.com/channel/UClfUAjgtQ19vGnUbkQxTuAg) 
 
 ### Preview bot
 ------------------
